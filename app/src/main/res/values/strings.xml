@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PostRequests</string>
+    <string name="publicar_solicitud">Publicar Solicitud de Transporte de Carga</string>
+    <string name="nombre_empresa">Nombre de la Empresa</string>
+    <string name="descripcion_carga">Descripción de la Carga</string>
+    <string name="ubicacion_recogida">Ubicación de Recogida</string>
+    <string name="ubicacion_entrega">Ubicación de Entrega</string>
+    <string name="instrucciones_especiales">Instrucciones Especiales</string>
+    <string name="tarifa_ofrecida">Tarifa Ofrecida</string>
+    <string name="enviar_solicitud">Envíar Solicitud</string>
+</resources>
